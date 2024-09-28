@@ -202,8 +202,8 @@ export const Bio = {
       id: 9,
       title: "Animated Website",
       date: "Jun 2024",
-      // description:
-      //   "An Community platform for electronics enthusiasts were they can find the each and every solution of their problems and also they can manage & publish their projects",
+      description:
+        "this is the uncomplet website of e-commers",
       image:
         "project1.png",
       tags: [
@@ -223,8 +223,8 @@ export const Bio = {
       id: 0,
       title: "Online Food Delivery",
       date: "June 2024",
-      // description:
-      //   "An online platform for testing and showcasing user-created HTML, CSS and JavaScript code snippets.",
+      description:
+        "This is the pure HTML and CSS website templet.",
       image:
         "Food.png",
       tags: ["HTML", "CSS"],
@@ -234,11 +234,3 @@ export const Bio = {
     },
   ];
   
-  export const TimeLineData = [
-    { year: 2019, text: "Started my journey as Developer" },
-    { year: 2019, text: "Learning Web development" },
-    { year: 2021, text: "Learning React Js" },
-    { year: 2020, text: "Shared my projects with the world" },
-    { year: 2022, text: "Started my journy as Frontend Developer Intern" },
-    { year: 2023, text: "Started my own platform" },
-  ];
