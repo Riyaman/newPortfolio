@@ -11,7 +11,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Riyaman",
     resume:
-      "https://drive.google.com/file/d/14UgTJBHY36hBnDb2nsEPyKM_27cEq2CI/view",
+      "https://docs.google.com/document/d/1NL1SIG0o4saLAjO8IGn-ubEEZv8gu4c9/edit?usp=sharing&ouid=103108790148965212801&rtpof=true&sd=true
     linkedin: "https://www.linkedin.com/in/janhavi-ganorkar-263752294/",
     twitter: "https://x.com/janhaviganorkar",
     insta: "https://www.instagram.com/itz_janhavi_official/",
